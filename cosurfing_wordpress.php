@@ -120,8 +120,6 @@ function cosurfing_init_plugin()
 	if($accept_local == 'false')cosurfing_confirm();
 	if($accept) update_option('cosurfing_agree', 'true', 'yes');
 
-	/*$ch = curl_init("http://www.cosurfing.net/cpanel/index.html?" . getEmailAndPageUrl());
-	curl_exec($ch);*/
 }
 
 function cosurfing_init_menu()
