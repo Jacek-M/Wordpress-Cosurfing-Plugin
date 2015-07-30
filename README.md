@@ -1,2 +1,2 @@
 # Wordpress-Cosurfing-Plugin
-Integration cosurfing widget with drupal.
+Integration cosurfing widget with WordPress.
