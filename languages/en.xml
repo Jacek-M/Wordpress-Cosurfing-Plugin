@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<en>
+  <confirml1><![CDATA[Plugin including external links. Do you agree with this condition?]]></confirml1>
+  <confirml2><![CDATA[Plugin won't add any external links. (Warning! It won't work properly!)]]></confirml2>
+  <title><![CDATA[Cosurfing plugin settings]]></title>
+  <label1><![CDATA[Enter Data-Token]]> </label1>
+  <button><![CDATA[Apply]]></button>
+  <alert><![CDATA[Data-Token has been changed.]]></alert>
+  <link><![CDATA[Don't have an account? Click here to register!]]></link>
+  <monitor><![CDATA[Check how CoSurfing works]]></monitor>
+  <footer><![CDATA[Cosurfing plugin for wordpress. &copy; All rights reserved]]></footer>
+  <language><![CDATA[Language]]></language>
+</en>

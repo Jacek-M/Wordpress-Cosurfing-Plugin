@@ -1,0 +1,128 @@
+body
+	{
+		background-color: white;
+	}
+	#container
+	{
+		width: 800px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{
+		background-color: #393E42;
+		text-align: center;
+	}
+	#h
+	{
+		margin-top: 10px;
+		margin-bottom: 10px;
+		height: 18px;
+		font-size: 28px;
+		color: black;
+		text-align: center;
+		font-weight: bold;
+		padding: 15px;
+		border-bottom: 2px dotted #D8E0E6;
+	}
+	#plugin
+	{
+		margin-top: 30px;
+		margin-bottom: 10px;
+		font-size: 22px;
+		color: black;
+		border-bottom: 2px dotted #D8E0E6;
+		text-align: center;
+	}
+	#link
+	{
+		font-size: 16px;
+		padding: 1px;
+	}
+	#monitor
+	{
+		text-align: center;
+		background-color: #D8E0E6;
+		min-height: 100px;
+	}
+	#monitorH
+	{
+		color: black;
+		font-size: 25px;
+		font-weight: bold;
+		padding: 5px;
+		margin-top: 5px;
+		margin-bottom: 10px;
+
+	}
+	#monitorB
+	{
+		text-align: center;
+	}
+	#footer
+	{
+		background-color: #393E42;
+		clear: both;
+		color: white;
+		text-align: center;
+		padding: 10px;
+		font-size: 12px;
+	}
+	#button1
+	{
+		display: block;
+		margin-left: 45%;
+	}
+	#msg1
+	{
+		color: red;
+	}
+	#lang1
+	{
+		float: left;
+	}
+	#lang2
+	{
+		float: left;
+	}
+	#footerAll
+	{
+		border-top: 3px solid #1CAD32;
+		padding: 15px;
+		background-color: #393E42;
+		color: white;
+	}
+	#footerLeft
+	{
+		color: #ABABAB;
+		margin-left: 15%;
+		float: left;
+		width: 30%;
+		text-align: center;
+	}
+	#footerRight
+	{
+		margin-right: 15%;
+		float: right;
+		width: 30%;
+		text-align: center;
+	}
+	.clear 
+	{
+   		clear: both;
+	}
+	#span1
+	{
+		color: white;
+		font-size: 15px;
+	}
+	table#foot
+	{
+		text-align: center;
+		margin-left: 70px;
+	}
+	#foot td
+	{
+		padding: 5px;
+		text-align: left;
+	}
